@@ -1,4 +1,4 @@
-# detection_miniproject
+# BOAZ 🐘 detection miniproject
 
 <h3>2021.11 ~ 2021.12</h3>
 
