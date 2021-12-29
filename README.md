@@ -5,9 +5,9 @@
 FasterRCNN mask detection<br>
 
 - detection ['with_mask', 'without_mask', 'mask_weared_incorrect']<br>
-![image](https://user-images.githubusercontent.com/68222710/147205946-ae2a74db-6d37-48f6-b29e-6f8c6242cf6d.png)
+![image](https://user-images.githubusercontent.com/68222710/147618800-e68aab35-3670-4cd0-846b-2a05e9eace7d.png)
 
 - print score and label
-![image](https://user-images.githubusercontent.com/68222710/147429042-b49b2971-6245-45c6-ac7b-850e21ef8945.png)
-![image](https://user-images.githubusercontent.com/68222710/147429153-47085505-5ed1-4021-a2ce-23ba68933b0a.png)
-![image](https://user-images.githubusercontent.com/68222710/147429063-ec9a171d-aef3-4b23-aa24-f2ccf5d36e70.png)
+![image](https://user-images.githubusercontent.com/68222710/147618897-2a5e8e3c-df79-4ff3-9e0f-26a3278e7285.png)
+![image](https://user-images.githubusercontent.com/68222710/147618912-edac8a3f-2390-4b60-bbce-c8516f965e9a.png)
+![image](https://user-images.githubusercontent.com/68222710/147618934-1e94ddd6-6063-4b2a-9aa3-5234c116a4cf.png)
